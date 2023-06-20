@@ -20,3 +20,7 @@ h3{
     margin: auto;
     font-size: 0.75rem;
 }
+div.tabela{
+    text-align: center;
+    background-color: brown;
+}
